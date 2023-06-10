@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\Exception.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\Exception.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\Exception.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\bin\Debug\net7.0\Exception.exe
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\bin\Debug\net7.0\Exception.deps.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\bin\Debug\net7.0\Exception.runtimeconfig.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\bin\Debug\net7.0\Exception.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\bin\Debug\net7.0\Exception.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\Exception.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\refint\Exception.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\Exception.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\Exception.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Exception\obj\Debug\net7.0\ref\Exception.dll

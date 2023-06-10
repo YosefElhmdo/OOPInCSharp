@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\bin\Debug\net7.0\Static_ploymorphism.exe
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\bin\Debug\net7.0\Static_ploymorphism.deps.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\bin\Debug\net7.0\Static_ploymorphism.runtimeconfig.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\bin\Debug\net7.0\Static_ploymorphism.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\bin\Debug\net7.0\Static_ploymorphism.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\Static_ploymorphism.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\Static_ploymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\Static_ploymorphism.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\Static_ploymorphism.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\Static_ploymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\Static_ploymorphism.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\refint\Static_ploymorphism.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\Static_ploymorphism.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\Static_ploymorphism.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Static_ploymorphism\obj\Debug\net7.0\ref\Static_ploymorphism.dll

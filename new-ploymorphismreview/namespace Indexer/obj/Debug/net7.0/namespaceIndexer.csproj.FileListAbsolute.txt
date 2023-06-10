@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\bin\Debug\net7.0\namespaceIndexer.exe
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\bin\Debug\net7.0\namespaceIndexer.deps.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\bin\Debug\net7.0\namespaceIndexer.runtimeconfig.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\bin\Debug\net7.0\namespaceIndexer.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\bin\Debug\net7.0\namespaceIndexer.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\namespaceIndexer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\namespaceIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\namespaceIndexer.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\namespaceIndexer.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\namespaceIndexer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\namespaceIndexer.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\refint\namespaceIndexer.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\namespaceIndexer.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\namespaceIndexer.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\namespace Indexer\obj\Debug\net7.0\ref\namespaceIndexer.dll

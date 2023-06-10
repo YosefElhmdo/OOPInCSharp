@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\Dynamic_Ploymorphism.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\Dynamic_Ploymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\Dynamic_Ploymorphism.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\Dynamic_Ploymorphism.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\Dynamic_Ploymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\bin\Debug\net7.0\Dynamic_Ploymorphism.exe
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\bin\Debug\net7.0\Dynamic_Ploymorphism.deps.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\bin\Debug\net7.0\Dynamic_Ploymorphism.runtimeconfig.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\bin\Debug\net7.0\Dynamic_Ploymorphism.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\bin\Debug\net7.0\Dynamic_Ploymorphism.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\Dynamic_Ploymorphism.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\refint\Dynamic_Ploymorphism.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\Dynamic_Ploymorphism.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\Dynamic_Ploymorphism.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Dynamic_Ploymorphism\obj\Debug\net7.0\ref\Dynamic_Ploymorphism.dll

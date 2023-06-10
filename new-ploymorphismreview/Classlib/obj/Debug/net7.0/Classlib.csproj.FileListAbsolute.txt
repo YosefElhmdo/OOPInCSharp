@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\Classlib.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\Classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\Classlib.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\Classlib.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\Classlib.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\bin\Debug\net7.0\Classlib.exe
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\bin\Debug\net7.0\Classlib.deps.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\bin\Debug\net7.0\Classlib.runtimeconfig.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\bin\Debug\net7.0\Classlib.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\bin\Debug\net7.0\Classlib.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\Classlib.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\refint\Classlib.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\Classlib.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\Classlib.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\Classlib\obj\Debug\net7.0\ref\Classlib.dll

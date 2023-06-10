@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\new-ploymorphismreview.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\new-ploymorphismreview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\new-ploymorphismreview.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\new-ploymorphismreview.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\new-ploymorphismreview.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\bin\Debug\net7.0\new-ploymorphismreview.exe
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\bin\Debug\net7.0\new-ploymorphismreview.deps.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\bin\Debug\net7.0\new-ploymorphismreview.runtimeconfig.json
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\bin\Debug\net7.0\new-ploymorphismreview.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\bin\Debug\net7.0\new-ploymorphismreview.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\new-ploymorphismreview.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\refint\new-ploymorphismreview.dll
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\new-ploymorphismreview.pdb
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\new-ploymorphismreview.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Object_oriented_programming\ProgectsOOP\new-ploymorphismreview\new-ploymorphismreview\obj\Debug\net7.0\ref\new-ploymorphismreview.dll
